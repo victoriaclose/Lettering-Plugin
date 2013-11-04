@@ -1,2 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
+
+.char1, .char10, .char16{
+	font-size: 3em;
+	color: orange;
+}
+
+.char2 {
+	letter-spacing: -10px;	
+}
